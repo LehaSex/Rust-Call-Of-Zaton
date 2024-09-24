@@ -53,13 +53,13 @@ Layout:
 ![Map](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/Map.png?raw=true "Map")
 
 Ingame:
-![1](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/1.png?raw=true "1")
-![2](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/2.png?raw=true "2")
-![3](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/3.png?raw=true "3")
-![4](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/4.png?raw=true "4")
-![5](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/5.png?raw=true "5")
-![6](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/6.png?raw=true "6")
-![7](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/7.png?raw=true "7")
-![8](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/8.png?raw=true "8")
-![9](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/9.png?raw=true "9")
+![1](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/1.jpg?raw=true "1")
+![2](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/2.jpg?raw=true "2")
+![3](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/3.jpg?raw=true "3")
+![4](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/4.jpg?raw=true "4")
+![5](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/5.jpg?raw=true "5")
+![6](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/6.jpg?raw=true "6")
+![7](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/7.jpg?raw=true "7")
+![8](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/8.jpg?raw=true "8")
+![9](https://github.com/LehaSex/Rust-Call-Of-Zaton/blob/main/9.jpg?raw=true "9")
 
